@@ -10,7 +10,7 @@ from apscheduler.schedulers.asyncio import AsyncIOScheduler
 import aiohttp
 
 # ================= إعدادات البوت =================
-BOT_TOKEN = "YOUR_BOT_TOKEN_HERE"
+BOT_TOKEN = "8450630765:AAG0oBdaYc9uZavkmEJdoNRXhOwL3ITdG38"
 CHANNEL_ID = "@falcon_pips"
 
 # توقيت بغداد
